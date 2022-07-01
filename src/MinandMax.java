@@ -1,3 +1,6 @@
+
+// Problem 4 -> Min and Max
+
 public class MinandMax {
 
         public int max(int [] array) {

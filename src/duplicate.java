@@ -1,3 +1,6 @@
+
+// Problem 6 -> Duplicates in an array
+
 public class duplicate {
 
     public static void main(String[] args) {
