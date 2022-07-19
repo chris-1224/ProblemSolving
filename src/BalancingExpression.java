@@ -47,7 +47,7 @@ private boolean bracketsMatch(char left, char right){
         // (
         // (()
         // ) (
-        String str = "[1+2]";
+        String str = "[1] + {1>";
         BalancingExpression exp = new BalancingExpression();
         var result = exp.isBalanced(str);
         System.out.println(result);
