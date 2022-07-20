@@ -1,5 +1,7 @@
-import java.util.Arrays;
 
+// Problem 15 -> Merge Sort 
+
+import java.util.Arrays;
 public class MergeSort {
 
         public void sort(int[] array) {

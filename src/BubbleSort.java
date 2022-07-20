@@ -1,5 +1,7 @@
-import java.util.Arrays;
 
+// Problem 16 -> Bubble Sort
+
+import java.util.Arrays;
 public class BubbleSort {
 
     public void sort(int[] array){
